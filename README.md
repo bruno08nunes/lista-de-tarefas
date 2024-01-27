@@ -20,5 +20,10 @@
     <li>API - IndexedDB</li>
   </ul>
 </ul>
+
+## Imagens
+![image](https://github.com/bruno08nunes/lista-de-tarefas/assets/139359503/8dbbde4d-f914-4c0d-9ed5-17f311778501)
+![image](https://github.com/bruno08nunes/lista-de-tarefas/assets/139359503/86dc2249-b914-4873-b4ac-8ef73a28aea1)
+
 <p><i>Feito com base no modelo do curso <a href="https://www.youtube.com/watch?v=McKNP3g6VBA">https://www.youtube.com/watch?v=McKNP3g6VBA</a></i></p>
 <p>Acesse-a em: <a href="https://bruno08nunes.github.io/projetos/js/listaTarefas/">Lista de Tarefas</a></p>
